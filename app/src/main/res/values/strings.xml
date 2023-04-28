@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TaskTest</string>
+
+    <string name="check_your_connection">Serverga ulanib boʻlmadi. Internet aloqangizni tekshiring.</string>
+    <string name="something_is_wrong"> Nimadir noto`g`ri bajarildi. Iltimos keyinroq qayta urinib ko`ring!</string>
+    <string name="my_cards">My cards</string>
+    <string name="card_name">Card name</string>
+    <string name="card_number_mask">0000 0000 0000 0000</string>
+    <string name="card_expdate_mask">00/00</string>
+    <string name="card_number">Card number</string>
+    <string name="expire_date">Expire date</string>
+    <string name="save">Save</string>
+</resources>
